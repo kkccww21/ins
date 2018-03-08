@@ -1,0 +1,18 @@
+{
+  "parser": "babel-eslint",
+  "extends": "react-app",
+  "plugins": [
+    "react"
+  ],
+  "env": {
+    "es6": true,
+    "browser": true,
+    "node": true,
+    "jquery": true
+  },
+  "rules": {
+    "no-unused-vars": 0
+  },
+  "globals": {
+  }
+}
